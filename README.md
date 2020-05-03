@@ -1,6 +1,8 @@
 # MySubmits-
 My submits to exploit-db.com
 
+This repo is only for legal purposes not for illegal. This is also only for educational stuff
+
 ## Disclaimer
 This exploit is for testing purposes only not for illegal uses.
 Usage of this exploit for attacking targets without prior mutual consent is
